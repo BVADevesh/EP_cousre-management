@@ -104,7 +104,7 @@ mvn spring-boot:run</code></pre>
   </ol>
 
   <h2>📬 Contact</h2>
-  <p>Author: <strong>Bellamkonda V A Devesh</strong><br>GitHub: <a href="https://github.com/klu2200032499">klu2200032499</a></p>
+  <p>Author: <strong>Bellamkonda V A Devesh</strong><br>GitHub: <a href="https://github.com/BVADevesh">BVADevesh</a></p>
 
   <h2>✔ Commit Checklist</h2>
   <ul>
