@@ -108,7 +108,7 @@ mvn spring-boot:run</code></pre>
 
   <h2>✔ Commit Checklist</h2>
   <ul>
-    <li>[ ]Dependencies updated</li>
+    <li>[ ] Dependencies Updated</li>
     <li>[ ] Code style consistent</li>
     <li>[ ] Manual test passed</li>
     <li>[ ] Database migrations (if any)</li>
