@@ -93,8 +93,7 @@ mvn spring-boot:run</code></pre>
   <h2>🧪 Testing</h2>
   <pre><code>mvn test</code></pre>
 
-  <h2>📄 License</h2>
-  <p>Distributed under the MIT License.</p>
+
 
   <h2>🤝 Contributing</h2>
   <ol>
@@ -105,7 +104,7 @@ mvn spring-boot:run</code></pre>
   </ol>
 
   <h2>📬 Contact</h2>
-  <p>Author: <strong>Your Name</strong><br>GitHub: <a href="https://github.com/klu2200032499">klu2200032499</a></p>
+  <p>Author: <strong>Bellamkonda V A Devesh</strong><br>GitHub: <a href="https://github.com/klu2200032499">klu2200032499</a></p>
 
   <h2>✔ Commit Checklist</h2>
   <ul>
